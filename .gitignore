@@ -1,0 +1,9 @@
+cat <<EOF > .gitignore
+venv-cv/
+__pycache__/
+*.pyc
+.DS_Store
+*.mp4
+*.avi
+*.pt
+EOF
