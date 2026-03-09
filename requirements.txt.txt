@@ -1,0 +1,10 @@
+# 核心電腦視覺與 AI
+ultralytics
+opencv-python
+cvzone
+numpy
+
+# SORT 追蹤演算法必要依賴
+filterpy
+scikit-image
+matplotlib
